@@ -11,6 +11,7 @@ class Classmanager {
         }
         return $fullWeather;
     }    
+    //deve by kithru
     
 }
 
